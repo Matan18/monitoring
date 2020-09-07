@@ -6,6 +6,7 @@ Esse é um projeto que eu fiz porque queria monitorar minha gatinha, já que ela
 
 * Deve ter o Python instalado;
 * Deve ter o opencv instalado como cv2;
+* Numpy deve estar instalado;
 * Corrija o caminho para salvar a pasta;
 
 ## Funcionalidade
